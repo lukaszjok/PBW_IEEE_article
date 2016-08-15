@@ -19,7 +19,9 @@
 
 % correct bad hyphenation here
 \hyphenation{op-tical net-works semi-conduc-tor}
-\usepackage{amssymb} %mathematical packages to write correct formulas
+\usepackage{amssymb} %mathematical packages to write correct' formulas
+\usepackage{amsmath}
+\usepackage{graphicx}
 
 \begin{document}
 
@@ -42,7 +44,7 @@ tomasz\_kowalik@hotmail.com}
 \and
 \IEEEauthorblockN{Piotr Tazbir}
 \IEEEauthorblockA{Department of Electronics,\\Wroclaw University of Technology\\Wroclaw, Poland\\
-E-mail: - - - - - - - }
+E-mail: piter9901@gmail.com }
 }
 
 % conference papers do not typically use \thanks and this command
@@ -124,32 +126,49 @@ Knapsack problem, often also called rucksack problem, is the most popular questi
 \subsection{Definition}
 Formal definition says that we have a knapsack with maximal capacity W and set N of elements 
 $$ \{x_1,x_j,...,x_N\} \textrm{,}$$
-while each element has specified weight and value.\\\\
-%TODO sprawdzic czy each has czy each have. 
+while each element has specified weight (\textbf{w}) and value (\textbf{v}).\\\\
+ 
 In this algorithm three approach are distinguished:
-%TODO -opisać wzory
+
 \begin{enumerate}
   \item 0-1 knapsack problem\\
-  $$ \textrm{maximize}\sum_{i=1}^{n}v_{i}x_{i} $$ 
-$$ \textrm{subject to} \sum_{i=1}^{n}w_{i}x_{i} \leqslant W \textrm{ and } x_{i} \in \{0,1\} $$
+  
+  \begin{equation}
+  \textrm{maximize}\sum_{i=1}^{n}v_{i}x_{i} \\
+  \end{equation}
+  
+  \begin{equation}
+    \textrm{subject to} \sum_{i=1}^{n}w_{i}x_{i} \leqslant W           \textrm{ and } x_{i} \in \{0,1\}
+  \end{equation}
+	  
+  
+  $$  $$
   \item Bounded knapsack problem (BKP)\\
-    $$ \textrm{maximize}\sum_{i=1}^{n}v_{i}x_{i} $$ 
-$$ \textrm{subject to} \sum_{i=1}^{n}w_{i}x_{i} \leqslant W \textrm{ and } 0 \leqslant x_{i} \leqslant c $$
-%TODO napisać czym jest "c" - angielska wiki
+  \begin{equation}
+   \textrm{maximize}\sum_{i=1}^{n}v_{i}x_{i} 
+  \end{equation}
+  
+  \begin{equation}
+   \textrm{subject to} \sum_{i=1}^{n}w_{i}x_{i} \leqslant W \textrm{ and } 0 \leqslant x_{i} \leqslant c 
+  \end{equation}
+   
+Where "c" is non-negative integer value.\\
+
   \item Unbounded knapsack problem (UKP)\\
-      $$ \textrm{maximize}\sum_{i=1}^{n}v_{i}x_{i} $$ 
-$$ \textrm{subject to} \sum_{i=1}^{n}w_{i}x_{i} \leqslant W \textrm{ and }  x_{i} \geqslant 0 $$
+\begin{equation}
+ \textrm{maximize}\sum_{i=1}^{n}v_{i}x_{i} 
+\end{equation}
+
+\begin{equation}
+\textrm{subject to} \sum_{i=1}^{n}w_{i}x_{i} \leqslant W \textrm{ and }  x_{i} \geqslant 0 
+\end{equation}
+
 \end{enumerate}
 
 
-
-
-\subsubsection{Subsubsection Heading Here}
-Subsubsection text here.
-
-
 \section{Mathematical model of knapsack problem}
-%TODO tutaj zrbić jakiś wstęp/perowadzenie do algorytmu
+We have a few criteria of benchmarks in this problem. Brute fore always gives us optimal solution, but it is very time-consuming. We have decided to choose brute force algorithm as a pattern in comparison others algorithms.
+
 \subsection{Greedy algorithm}
 In first step this algorithm sort descending elements in data set. Next, it puts this elements to the knapsack (starting from the biggest one). If the weight of element is bigger than rest of maximal loading, it is skipped and algorithm analyse other elements. Algorithm stops when maximal loading of knapsack is reached or when algorithm checks the last element from the data set.
 
@@ -187,6 +206,29 @@ We created three data sets to do the research:
 We used all 3 data sets to research three algorithms: Greedy, Genetic and Dynamic Programming.
 Brute Force method was tested only with the Easy data set, because for other ones the time of execution was near to infinity.
 Each algorithm was tested without modifications (we checked results only for weight of packages and truck and only for volume packages and truck) and with modifications (we checked results for weight and volume of packages and truck).
+
+\newpage
+\section{Results}
+
+!!!!!!!!!!!!!!! GIVE SOME TEXT    !!!!!!!!!!!!!!!!!!!
+
+\begin{figure}[hb]
+  \centering
+  \includegraphics[width=\columnwidth]{image003.png}
+  \caption{Some title}
+\end{figure}
+
+\begin{figure}[hb]
+  \centering
+  \includegraphics[width=\columnwidth]{image004.png}
+  \caption{Some title}
+\end{figure}
+
+\begin{figure}[hb]
+  \centering
+  \includegraphics[width=\columnwidth]{image006.png}
+  \caption{Some title}
+\end{figure}
 
 \section{Conclusion}
 \begin{itemize}
