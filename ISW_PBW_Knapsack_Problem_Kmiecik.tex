@@ -107,11 +107,14 @@ The abstract goes here.
 \section{Introduction}
 % no \IEEEPARstart
 In many companies there is some problem with optimization of loading goods. This is very important multifaceted trouble, which concerns spending of money, waste of time and human resources management.
+
 \subsection{Saving money}
 When headmasters and managers do not implement optimization algorithms, work of their employees is ineffective. This in turn is associated with rising industry cost. If managers introduced new solution, they would use better company resources. % trzeci tryb warunkowy
 The main advantage is that we are able to waste a place in trucks - developed software gives optimal arrangement of packages or select which loads pack into truck or not. Thanks to this solution is possible  to load up the lorry. Drivers drive less routes, so their chief spend less money on fuel and all maintenance costs of the car.
+
 \subsection{Faster work results}
 Another advantage is that the same work, which people were doing before implementing optimization algorithm, they do it in shorter time. This is due to the fact that they do not have to plan in real time position of next packages, because employees have generated list with optimal positions. What is more, optimization process is very efficient, because it is automated - once written application is used repeatedly.
+
 \subsection{Responsible use of human resources}
 The use of optimization work makes people more thoughtful, it reduces the effort in the process of loading trucks. People have more time to regeneration and rest between successive jobs.
 
@@ -119,25 +122,30 @@ The use of optimization work makes people more thoughtful, it reduces the effort
 Knapsack problem, often also called rucksack problem, is the most popular question in optimization matter. The main objective is to pack a goods as much as is possible with maximal value and minimal weight. The knapsack problem is said to be a thief problem, because as he, we want to get the most valuable items and put it in limited space(knapsack).
 
 \subsection{Definition}
+Formal definition says that we have a knapsack with maximal capacity W and set N of elements 
+$$ \{x_1,x_j,...,x_N\} \textrm{,}$$
+while each element has specified weight and value.\\\\
+%TODO sprawdzic czy each has czy each have. 
 In this algorithm three approach are distinguished:
-
+%TODO -opisać wzory
 \begin{enumerate}
   \item 0-1 knapsack problem\\
- 		In this approach we have a knapsack with maximal capacity B and set N of elements 
-$$ \{x_1,x_j,...,x_N\}$$
-  \item Bounded knapsack problem (BKP)
-  \item Unbounded knapsack problem (UKP
+  $$ \textrm{maximize}\sum_{i=1}^{n}v_{i}x_{i} $$ 
+$$ \textrm{subject to} \sum_{i=1}^{n}w_{i}x_{i} \leqslant W \textrm{ and } x_{i} \in \{0,1\} $$
+  \item Bounded knapsack problem (BKP)\\
+    $$ \textrm{maximize}\sum_{i=1}^{n}v_{i}x_{i} $$ 
+$$ \textrm{subject to} \sum_{i=1}^{n}w_{i}x_{i} \leqslant W \textrm{ and } 0 \leqslant x_{i} \leqslant c $$
+%TODO napisać czym jest "c" - angielska wiki
+  \item Unbounded knapsack problem (UKP)\\
+      $$ \textrm{maximize}\sum_{i=1}^{n}v_{i}x_{i} $$ 
+$$ \textrm{subject to} \sum_{i=1}^{n}w_{i}x_{i} \leqslant W \textrm{ and }  x_{i} \geqslant 0 $$
 \end{enumerate}
 
-$$ \sum_{j=1}^{N}x_{j}x{j} \leqslant B $$
+
 
 
 \subsubsection{Subsubsection Heading Here}
 Subsubsection text here.
-
-
-
-
 
 
 \section{Mathematical model of knapsack problem}
