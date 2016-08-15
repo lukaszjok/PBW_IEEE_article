@@ -140,13 +140,60 @@ Subsubsection text here.
 
 
 
+\section{Mathematical model of knapsack problem}
+%TODO tutaj zrbić jakiś wstęp/perowadzenie do algorytmu
+\subsection{Greedy algorithm}
+In first step this algorithm sort descending elements in data set. Next, it puts this elements to the knapsack (starting from the biggest one). If the weight of element is bigger than rest of maximal loading, it is skipped and algorithm analyse other elements. Algorithm stops when maximal loading of knapsack is reached or when algorithm checks the last element from the data set.
+
+\subsection{Genetic algorithm}
+It works like this:
+\begin{itemize}
+\item generate random starting population containing N individuals;
+\item calculate adaptation function for each individual;
+\item repeat creating new generations until the stop condition is not reached:
+	\begin{itemize}
+	\item selection (choosing individual for reproduction);
+	\item create new population containing N individuals 					using crossing and mutation;
+	\item rate new individuals by calculating their 						adaptation function
+	\end{itemize}
+	
+
+\end{itemize}
+\subsection{Dynamic programming}
+Knapsack problem can be solved in pseudopolynominal time using dynamic programming method. w1, w2, …, wn is weight of each element on c1, c2, …, cn is them values. Algorithm have to maximize the sum of values of elements in the way that their weight cannot be greater than W. When A(i) is the greatest possible value which can be received when the weight is not greater then “i”, than A(W) is the solution of the problem.
+%TODO dołożyć wzory od tomka
+
+\subsection{Brute force algorithm}
+This method checked all possibilities to solve the problem using given data set. This algorithm always find the best solution. Brute force can only be used to compare with other algorithms in laboratory conditions because due to its computational complexity (2n) it last too much time to used it in daily work. 
+
+\section{Research plan}
+First of all we got to know with optimization problem, different algorithms which could solve the problem and choose three of them. Next we were looking for publications which describe every chosen algorithm. The publications helped us to solve the problem and also made the final report from our research. In next step we distributed all tasks which were necessary to finish our project. At the same time we create schedule which helped us to do everything in time. Then we created data sets which were using in programme. After that we implemented the chosen algorithms. After that we made user friendly graphical user interface. We also implemented making graphs. Next we started to test our programme and we were fixing all bugs. Then we selected parameters of algorithms so as they are similar to real world. In next step we analyse all algorithms with the best settings and compare to the Brute Force Algorithm. At the end we presented all results in transparent way, expressed conclusion and created the report.
+
+\section{Research}
+We created three data sets to do the research:
+\begin{itemize}
+\item Easy – contains 15 elements;
+\item Medium – contains 5310 elements;
+\item Hard – contains 16100 elements;
+\end{itemize}
+We used all 3 data sets to research three algorithms: Greedy, Genetic and Dynamic Programming.
+Brute Force method was tested only with the Easy data set, because for other ones the time of execution was near to infinity.
+Each algorithm was tested without modifications (we checked results only for weight of packages and truck and only for volume packages and truck) and with modifications (we checked results for weight and volume of packages and truck).
+
 \section{Conclusion}
-The conclusion goes here.
+\begin{itemize}
+\item Applying our programme in transport companies brings lots of benefits in example: saving time to load a truck or maximize cost of each loading;
 
+\item After research each algorithm, we proved that the best one was “Greedy Algorithm”, which we modified and it checked if each package was not too heavy (weight) or too big (volume). It was turning the best result of fulfilment a truck and also it was the fastest algorithm;
 
+\item After research each algorithm, we proved that the best one was “Greedy Algorithm”, which we modified and it checked if each package was not too heavy (weight) or too big (volume). It was turning the best result of fulfilment a truck and also it was the fastest algorithm;
 
+\item The size of data set was mattered. The bigger set the longer was execution of each algorithm. We expected that kind of phenomenon;
 
-% conference papers do not normally have an appendix
+\item It was impossible to test “Brute force Algorithm” using data set with lots of packages, because we didn't dispose so big computing power;
+
+\end{itemize}
+
 
 
 
@@ -159,9 +206,7 @@ The conclusion goes here.
   \section*{Acknowledgment}
 \fi
 
-
-The authors would like to thank...
-
+We would like to thank Aunt Wikipedia and Uncle Google for following us and support in hard moments. We also have to thank three awesome and unbelievable girls: Tatiana, Sasha and Nadia, who helped us to invent a subject of our research (loading trucks). 
 
 
 

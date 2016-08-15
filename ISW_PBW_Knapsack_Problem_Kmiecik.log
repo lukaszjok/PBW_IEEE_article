@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.8.8)  12 AUG 2016 14:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.8.8)  15 AUG 2016 17:12
 entering extended mode
 **./ISW_PBW_Knapsack_Problem_Kmiecik.tex
 (ISW_PBW_Knapsack_Problem_Kmiecik.tex
@@ -165,9 +165,54 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 127.
 
 ("d:\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 194.
+) [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
+
+]
+Underfull \hbox (badness 1466) in paragraph at lines 157--158
+[]\OT1/ptm/m/n/10.03749 rate new in-di-vid-u-als by cal-cu-lat-ing their
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ¶ in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ¶ in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 239.
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -179,30 +224,28 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-
-]
-(ISW_PBW_Knapsack_Problem_Kmiecik.aux) ) 
+[2] (ISW_PBW_Knapsack_Problem_Kmiecik.aux) ) 
 Here is how much of TeX's memory you used:
  1533 strings out of 493335
  25299 string characters out of 3145275
- 81008 words of memory out of 3000000
+ 82008 words of memory out of 3000000
  5093 multiletter control sequences out of 15000+200000
  45830 words of font info for 94 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 26i,7n,26p,459b,245s stack positions out of 5000i,500n,10000p,200000b,50000s
-{d:/MiKTeX 2.9/fonts/enc/dvips/fontname
-/8r.enc}<d:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmmi7.pfb><d:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/MiKTeX 2.9/fonts/type1
-/public/amsfonts/symbols/msam10.pfb><d:/MiKTeX 2.9/fonts/type1/urw/times/utmb8a
-.pfb><d:/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><d:/MiKTeX 2.9/fonts/type
-1/urw/times/utmr8a.pfb><d:/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ISW_PBW_Knapsack_Problem_Kmiecik.pdf (1 page, 102312 bytes).
+ 26i,7n,26p,1060b,245s stack positions out of 5000i,500n,10000p,200000b,50000s
+{d:/MiKTeX 2.9/fonts/enc/dvips/font
+name/8r.enc}<d:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmmi7.pfb><d:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+<d:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy7.pfb><d:/MiKTeX 2.9/fonts/type1/public/amsfonts/sy
+mbols/msam10.pfb><d:/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><d:/MiKTeX 2.9
+/fonts/type1/urw/times/utmbi8a.pfb><d:/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.
+pfb><d:/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on ISW_PBW_Knapsack_Problem_Kmiecik.pdf (2 pages, 115737 bytes).
+
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
+ 54 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
