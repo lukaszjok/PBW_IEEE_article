@@ -86,7 +86,7 @@ E-mail: piter9901@gmail.com }
 % As a general rule, do not put math, special symbols or citations
 % in the abstract
 \begin{abstract}
-The abstract goes here.
+This article is about using knapsack algorithm in transport company. Thanks to develop computer software, we can optimize loading of goods. This article will present our approach of solving issue with the end result.
 \end{abstract}
 
 % no keywords
@@ -187,8 +187,11 @@ It works like this:
 
 \end{itemize}
 \subsection{Dynamic programming}
-Knapsack problem can be solved in pseudopolynominal time using dynamic programming method. w1, w2, …, wn is weight of each element on c1, c2, …, cn is them values. Algorithm have to maximize the sum of values of elements in the way that their weight cannot be greater than W. When A(i) is the greatest possible value which can be received when the weight is not greater then “i”, than A(W) is the solution of the problem.
-%TODO dołożyć wzory od tomka
+Knapsack problem can be solved in pseudopolynominal time using dynamic programming method. $w_{1}$, $w_{w}$, …, $w_{n}$ is weight of each element on $c_{1}$, $c_{2}$, …, $c_{n}$ is them values. Algorithm have to maximize the sum of values of elements in the way that their weight cannot be greater than W. When A(i) is the greatest possible value which can be received when the weight is not greater then "i", than $A(W)$ is the solution of the problem.
+$A(i)$ is recursion defined:\\
+$A(0) = 0$\\
+$A(i) = max \{c_{j} + A(i-w_{j}): w{j}\leqslant i\}$
+
 
 \subsection{Brute force algorithm}
 This method checked all possibilities to solve the problem using given data set. This algorithm always find the best solution. Brute force can only be used to compare with other algorithms in laboratory conditions because due to its computational complexity (2n) it last too much time to used it in daily work. 
@@ -256,7 +259,7 @@ Each algorithm was tested without modifications (we checked results only for wei
   \section*{Acknowledgment}
 \fi
 
-We would like to thank Aunt Wikipedia and Uncle Google for following us and support in hard moments. We also have to thank three awesome and unbelievable girls: Tatiana, Sasha and Nadia, who helped us to invent a subject of our research (loading trucks). 
+We would like to thank our professors: Leszek Koszalka and Wojciech Kmiecik for following us and support in hard moments. We also have to thank our two friends: Mariusz Lont and Mare Wosko, who helped us to invent a subject of our research (loading trucks). 
 
 
 
@@ -286,8 +289,16 @@ We would like to thank Aunt Wikipedia and Uncle Google for following us and supp
 \begin{thebibliography}{1}
 
 \bibitem{IEEEhowto:kopka}
-H.~Kopka and P.~W. Daly, \emph{A Guide to \LaTeX}, 3rd~ed.\hskip 1em plus
-  0.5em minus 0.4em\relax Harlow, England: Addison-Wesley, 1999.
+Piotr Wroblewski, \emph{Algorytmy, struktury danych i techniki programowania. }, 3rd~ed.\hskip 1em plus
+0.5em minus 0.4em\relax Gliwice, Helion, 2003.
+
+\bibitem{IEEEhowto:kopka}
+Wikipedia article on day 14-08-2016,
+\\\texttt{https://en.wikipedia.org/wiki/Knapsack\_problem}
+
+\bibitem{IEEEhowto:kopka}
+Wikipedia article on day 14-08-2016,
+\\\texttt{https://https://pl.wikipedia.org/wiki/Problem\_plecakowy}
 
 \end{thebibliography}
 

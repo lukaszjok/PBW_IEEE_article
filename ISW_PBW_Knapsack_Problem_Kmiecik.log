@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.8.8)  16 AUG 2016 01:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.8.8)  16 AUG 2016 10:44
 entering extended mode
 **./ISW_PBW_Knapsack_Problem_Kmiecik.tex
 (ISW_PBW_Knapsack_Problem_Kmiecik.tex
@@ -221,7 +221,14 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen135
 \Gin@req@width=\dimen136
 )
-(ISW_PBW_Knapsack_Problem_Kmiecik.aux)
+(ISW_PBW_Knapsack_Problem_Kmiecik.aux
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+)
 \openout1 = `ISW_PBW_Knapsack_Problem_Kmiecik.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -334,15 +341,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--147
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 155--156
-
- []
-
 [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 157--158
 
  []
@@ -360,12 +367,6 @@ Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ¶ in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ì in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
@@ -376,19 +377,19 @@ Missing character: There is no ì in font ptmr7t!
 [2] <image003.png, id=20, 540.0978pt x 304.9794pt>
 File: image003.png Graphic file (type png)
  <use image003.png>
-Package pdftex.def Info: image003.png used on input line 217.
+Package pdftex.def Info: image003.png used on input line 220.
 (pdftex.def)             Requested size: 243.91125pt x 137.72809pt.
 
 <image004.png, id=22, 540.51938pt x 304.88907pt>
 File: image004.png Graphic file (type png)
  <use image004.png>
-Package pdftex.def Info: image004.png used on input line 223.
+Package pdftex.def Info: image004.png used on input line 226.
 (pdftex.def)             Requested size: 243.91125pt x 137.58029pt.
 
 <image006.png, id=23, 540.0978pt x 304.9794pt>
 File: image006.png Graphic file (type png)
  <use image006.png>
-Package pdftex.def Info: image006.png used on input line 229.
+Package pdftex.def Info: image006.png used on input line 232.
 (pdftex.def)             Requested size: 243.91125pt x 137.72809pt.
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
@@ -408,7 +409,15 @@ Missing character: There is no ú in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
-LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 289.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 297.
+
+
+("d:\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Overfull \hbox (35.46pt too wide) in paragraph at lines 300--302
+\OT1/pcr/m/n/8.03 https://https://pl.wikipedia.org/wiki/Problem_plecakowy 
+ []
 
 
 ** Conference Paper **
@@ -422,29 +431,33 @@ Before submitting the final camera ready copy, remember to:
  process uses the appropriate paper size.
 
 [3 <./image003.png> <./image004.png> <./image006.png>]
-(ISW_PBW_Knapsack_Problem_Kmiecik.aux) ) 
+(ISW_PBW_Knapsack_Problem_Kmiecik.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3398 strings out of 493335
- 49968 string characters out of 3145275
- 116724 words of memory out of 3000000
- 6877 multiletter control sequences out of 15000+200000
- 46337 words of font info for 95 fonts, out of 3000000 for 9000
+ 3399 strings out of 493335
+ 49980 string characters out of 3145275
+ 117763 words of memory out of 3000000
+ 6881 multiletter control sequences out of 15000+200000
+ 41424 words of font info for 80 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
  40i,7n,26p,1060b,247s stack positions out of 5000i,500n,10000p,200000b,50000s
-{d:/MiKTeX 2.9/fonts/enc/dvips/fontname
-/8r.enc}<d:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmmi7.pfb><d:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmsy10.pfb><d:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
-y7.pfb><d:/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><d:/MiKTeX
- 2.9/fonts/type1/urw/times/utmb8a.pfb><d:/MiKTeX 2.9/fonts/type1/urw/times/utmb
-i8a.pfb><d:/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><d:/MiKTeX 2.9/fonts/ty
-pe1/urw/times/utmri8a.pfb>
-Output written on ISW_PBW_Knapsack_Problem_Kmiecik.pdf (3 pages, 323223 bytes).
+{d:/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<d:/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmex10.pfb><d:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10
+.pfb><d:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d:/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb><d:/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr7.pfb><d:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><d:/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/symbols/msam10.pfb><d:/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pf
+b><d:/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><d:/MiKTeX 2.9/fonts/type1/ur
+w/times/utmbi8a.pfb><d:/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><d:/MiKTeX 
+2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on ISW_PBW_Knapsack_Problem_Kmiecik.pdf (3 pages, 339265 bytes).
 
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
+ 72 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
