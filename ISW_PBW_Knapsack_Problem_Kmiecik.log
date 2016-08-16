@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.8.8)  16 AUG 2016 10:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.8.8)  16 AUG 2016 15:53
 entering extended mode
 **./ISW_PBW_Knapsack_Problem_Kmiecik.tex
 (ISW_PBW_Knapsack_Problem_Kmiecik.tex
@@ -221,7 +221,30 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen135
 \Gin@req@width=\dimen136
 )
+("d:\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count107
+\float@exts=\toks22
+\float@box=\box30
+\@float@everytoks=\toks23
+\@floatcapt=\box31
+)
 (ISW_PBW_Knapsack_Problem_Kmiecik.aux
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
 
 LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
 
@@ -231,33 +254,33 @@ LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
 )
 \openout1 = `ISW_PBW_Knapsack_Problem_Kmiecik.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 
 -- Lines per column: 58 (exact).
 ("d:\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count107
+\scratchcounter=\count108
 \scratchdimen=\dimen137
-\scratchbox=\box30
-\nofMPsegments=\count108
-\nofMParguments=\count109
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count110
+\scratchbox=\box32
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count111
 \MPscratchDim=\dimen138
-\MPnumerator=\count111
-\makeMPintoPDFobject=\count112
-\everyMPtoPDFconversion=\toks23
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks25
 ) ("d:\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -303,41 +326,41 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 84.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 85.
 
 ("d:\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.05249> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 84.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
 LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 12
-8.
-LaTeX Font Info:    Try loading font information for U+msa on input line 128.
+9.
+LaTeX Font Info:    Try loading font information for U+msa on input line 129.
 
 ("d:\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 128.
+LaTeX Font Info:    Try loading font information for U+msb on input line 129.
 
 ("d:\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 128--130
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--130
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--147
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
 
  []
 
@@ -345,17 +368,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--147
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 155--156
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--158
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
 
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 184--185
+Underfull \hbox (badness 1466) in paragraph at lines 185--186
 []\OT1/ptm/m/n/10.03749 rate new in-di-vid-u-als by cal-cu-lat-ing their
  []
 
@@ -377,48 +400,80 @@ Missing character: There is no ì in font ptmr7t!
 [2] <image003.png, id=20, 540.0978pt x 304.9794pt>
 File: image003.png Graphic file (type png)
  <use image003.png>
-Package pdftex.def Info: image003.png used on input line 220.
+Package pdftex.def Info: image003.png used on input line 237.
 (pdftex.def)             Requested size: 243.91125pt x 137.72809pt.
 
 <image004.png, id=22, 540.51938pt x 304.88907pt>
 File: image004.png Graphic file (type png)
  <use image004.png>
-Package pdftex.def Info: image004.png used on input line 226.
+Package pdftex.def Info: image004.png used on input line 243.
 (pdftex.def)             Requested size: 243.91125pt x 137.58029pt.
 
 <image006.png, id=23, 540.0978pt x 304.9794pt>
 File: image006.png Graphic file (type png)
  <use image006.png>
-Package pdftex.def Info: image006.png used on input line 232.
+Package pdftex.def Info: image006.png used on input line 249.
 (pdftex.def)             Requested size: 243.91125pt x 137.72809pt.
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 297.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+<image009.png, id=24, 540.51938pt x 304.88907pt>
+File: image009.png Graphic file (type png)
+ <use image009.png>
+Package pdftex.def Info: image009.png used on input line 255.
+(pdftex.def)             Requested size: 243.91125pt x 137.58029pt.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+Underfull \vbox (badness 5161) has occurred while \output is active []
+
+ [3 <./image003.png> <./image004.png> <./image006.png> <./image009.png>]
+Missing character: There is no √ in font ptmri7t!
+Missing character: There is no ≥ in font ptmri7t!
+Missing character: There is no ≈ in font ptmr7t!
+Missing character: There is no Ñ in font ptmr7t!
+
+Underfull \hbox (badness 5359) in paragraph at lines 326--328
+[]\OT1/ptm/m/n/8.03 Antoni Nieder-laski,\OT1/ptm/m/it/8.03 Programowanie w log-
+ice z ograniczeni-ami\OT1/ptm/m/n/8.03 ,
+ []
+
+Missing character: There is no √ in font ptmri7t!
+Missing character: There is no ≥ in font ptmri7t!
+Missing character: There is no ≈ in font ptmri7t!
+Missing character: There is no Ç in font ptmri7t!
+Missing character: There is no ≈ in font ptmri7t!
+Missing character: There is no Ç in font ptmri7t!
+Missing character: There is no ≈ in font ptmri7t!
+Missing character: There is no Ç in font ptmri7t!
+
+Underfull \hbox (badness 3884) in paragraph at lines 336--338
+[]\OT1/ptm/m/n/8.03 Jon Bent-ley, \OT1/ptm/m/it/8.03 Pereki opro-gramowa-nia / 
+Pereki pro-gramowa-nia\OT1/ptm/m/n/8.03 ,
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 345.
 
 ("d:\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Overfull \hbox (35.46pt too wide) in paragraph at lines 300--302
-\OT1/pcr/m/n/8.03 https://https://pl.wikipedia.org/wiki/Problem_plecakowy 
- []
-
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -430,17 +485,18 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[3 <./image003.png> <./image004.png> <./image006.png>]
-(ISW_PBW_Knapsack_Problem_Kmiecik.aux)
+[4
+
+] (ISW_PBW_Knapsack_Problem_Kmiecik.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3399 strings out of 493335
- 49980 string characters out of 3145275
- 117763 words of memory out of 3000000
- 6881 multiletter control sequences out of 15000+200000
+ 3464 strings out of 493335
+ 50789 string characters out of 3145275
+ 120130 words of memory out of 3000000
+ 6941 multiletter control sequences out of 15000+200000
  41424 words of font info for 80 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
  40i,7n,26p,1060b,247s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -454,10 +510,10 @@ ic/amsfonts/symbols/msam10.pfb><d:/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pf
 b><d:/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><d:/MiKTeX 2.9/fonts/type1/ur
 w/times/utmbi8a.pfb><d:/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><d:/MiKTeX 
 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ISW_PBW_Knapsack_Problem_Kmiecik.pdf (3 pages, 339265 bytes).
+Output written on ISW_PBW_Knapsack_Problem_Kmiecik.pdf (4 pages, 425095 bytes).
 
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
+ 77 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

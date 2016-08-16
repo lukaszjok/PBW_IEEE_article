@@ -22,6 +22,7 @@
 \usepackage{amssymb} %mathematical packages to write correct' formulas
 \usepackage{amsmath}
 \usepackage{graphicx}
+\usepackage{float}
 
 \begin{document}
 
@@ -210,28 +211,51 @@ We used all 3 data sets to research three algorithms: Greedy, Genetic and Dynami
 Brute Force method was tested only with the Easy data set, because for other ones the time of execution was near to infinity.
 Each algorithm was tested without modifications (we checked results only for weight of packages and truck and only for volume packages and truck) and with modifications (we checked results for weight and volume of packages and truck).
 
-\newpage
+\section{Software solution}
+
+To make research environment easier and our work effective we wrote graphical software. We have chosen JAVA language and SWING library. JAVA is very popular programming language with huge community and support. What is more when we implemented code in this language, our software is available on different platforms - Windows, Linux, Mac OS etc. .
+
+\subsection{Program features}
+\begin{itemize}
+\item original idea and solutions;
+\item user-friendly graphical interface, which does not need learning manuals or taking part in training;
+\item loadings goods from .csv file - it is popular file format in a lot of external software; 
+\item ability to select a researching algorithm from drop-down menu;
+\item transparent view of end results;
+\item ability to show graphs to compare results from all researches;
+\item all of data instance are be represent by id number;
+\item adjustable input parameters in all of algorithms.
+\end{itemize}
+
+
 \section{Results}
 
 !!!!!!!!!!!!!!! GIVE SOME TEXT    !!!!!!!!!!!!!!!!!!!
 
-\begin{figure}[hb]
+\begin{figure}[H]
   \centering
   \includegraphics[width=\columnwidth]{image003.png}
   \caption{Some title}
 \end{figure}
 
-\begin{figure}[hb]
+\begin{figure}[H]
   \centering
   \includegraphics[width=\columnwidth]{image004.png}
   \caption{Some title}
 \end{figure}
 
-\begin{figure}[hb]
+\begin{figure}[H]
   \centering
   \includegraphics[width=\columnwidth]{image006.png}
   \caption{Some title}
 \end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\columnwidth]{image009.png}
+  \caption{Some title}
+\end{figure}
+
 
 \section{Conclusion}
 \begin{itemize}
@@ -259,7 +283,7 @@ Each algorithm was tested without modifications (we checked results only for wei
   \section*{Acknowledgment}
 \fi
 
-We would like to thank our professors: Leszek Koszalka and Wojciech Kmiecik for following us and support in hard moments. We also have to thank our two friends: Mariusz Lont and Mare Wosko, who helped us to invent a subject of our research (loading trucks). 
+We would like to thank our professors: Leszek Koszalka and Wojciech Kmiecik for following us and support in hard moments. We also have to thank our two friends: Mariusz Lont and Marek Wosko, who helped us to invent a subject of our research (loading trucks). 
 
 
 
@@ -289,6 +313,30 @@ We would like to thank our professors: Leszek Koszalka and Wojciech Kmiecik for 
 \begin{thebibliography}{1}
 
 \bibitem{IEEEhowto:kopka}
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein: \emph{Wprowadzenie do algorytmów.}\hskip 1em plus
+0.5em minus 0.4em\relax Warszawa: Wydawnictwa Naukowo-Techniczne, 2003
+
+
+\bibitem{IEEEhowto:kopka}
+Michael R. Garey, David J. Johnson: \emph{Computers and intractability: a guide to the theory of NP-completeness.} \hskip 1em plus
+0.5em minus 0.4em\relax San Francisco: W.H. Freeman, 1979
+
+
+\bibitem{IEEEhowto:kopka}
+Antoni Niederlański,\emph{Programowanie w logice z ograniczeniami}, wydanie 2 poprawione,\hskip 1em plus
+0.5em minus 0.4em\relax Gliwce 2014
+
+
+\bibitem{IEEEhowto:kopka}
+Richard Neapolitan, \emph{Podstawy algorytmów z przykładami w C++},  \hskip 1em plus
+0.5em minus 0.4em\relax Kumarss Naimipour, Helion 2004
+
+
+\bibitem{IEEEhowto:kopka}
+Jon Bentley, \emph{Perełki oprogramowania / Perełki programowania}, \hskip 1em plus
+0.5em minus 0.4em\relax WNT/Helion, 2011
+
+\bibitem{IEEEhowto:kopka}
 Piotr Wroblewski, \emph{Algorytmy, struktury danych i techniki programowania. }, 3rd~ed.\hskip 1em plus
 0.5em minus 0.4em\relax Gliwice, Helion, 2003.
 
@@ -298,7 +346,9 @@ Wikipedia article on day 14-08-2016,
 
 \bibitem{IEEEhowto:kopka}
 Wikipedia article on day 14-08-2016,
-\\\texttt{https://https://pl.wikipedia.org/wiki/Problem\_plecakowy}
+\\\texttt{https://pl.wikipedia.org/wiki/Problem\_plecakowy}
+
+
 
 \end{thebibliography}
 
