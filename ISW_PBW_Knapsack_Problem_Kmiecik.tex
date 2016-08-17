@@ -87,7 +87,7 @@ E-mail: piter9901@gmail.com }
 % As a general rule, do not put math, special symbols or citations
 % in the abstract
 \begin{abstract}
-This article is about using knapsack algorithm in transport company. Thanks to develop computer software, we can optimize loading of goods. This article will present our approach of solving issue with the end result.
+Every logistic company has to find the best way to load their trucks. Unfortunately this is complex problem and without using proper tools it could take a lot of valuable time or be solved in a bad way. In this article authors  examine a problem of loading trucks with packages defined by weight, volume and cost. The problem analysis was made and four algorithms were implemented in order to solve this problem. The algorithms performance is evaluated by comparing each of them to brute force algorithm. It was compared the cost of load, filling available space and time of execution of algorithm. The authors examines which of the algorithms gives the best result in different cases.
 \end{abstract}
 
 % no keywords
@@ -216,6 +216,7 @@ Each algorithm was tested without modifications (we checked results only for wei
 To make research environment easier and our work effective we wrote graphical software. We have chosen JAVA language and SWING library. JAVA is very popular programming language with huge community and support. What is more when we implemented code in this language, our software is available on different platforms - Windows, Linux, Mac OS etc. .
 
 \subsection{Program features}
+As a priority we set ourselves following assumptions:
 \begin{itemize}
 \item original idea and solutions;
 \item user-friendly graphical interface, which does not need learning manuals or taking part in training;
@@ -229,33 +230,23 @@ To make research environment easier and our work effective we wrote graphical so
 
 
 \section{Results}
-
-!!!!!!!!!!!!!!! GIVE SOME TEXT    !!!!!!!!!!!!!!!!!!!
+As a result we got graphs, which present the degree of loading and average time of performing algorithm. Only selected charts are shown in this article.
 
 \begin{figure}[H]
   \centering
   \includegraphics[width=\columnwidth]{image003.png}
-  \caption{Some title}
-\end{figure}
-
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=\columnwidth]{image004.png}
-  \caption{Some title}
+  \caption{Percentage loading of a truck }
 \end{figure}
 
 \begin{figure}[H]
   \centering
   \includegraphics[width=\columnwidth]{image006.png}
-  \caption{Some title}
+  \caption{Average time of performing algorithms}
 \end{figure}
 
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=\columnwidth]{image009.png}
-  \caption{Some title}
-\end{figure}
+In the charts we can see that in Brute Force and Greedy algorithm he best results we got, when both weight and volume are complied. In Dynamic algorithm when we comply only volume and than both volume and weight the results are very similar. In Generic approach the best solution is to choose only weight as a limit but choosing limiting by only volume gives satisfying results\\\\
 
+It is known that Brutal Force algorithm is very time-consuming, but gives optimal results. Taking into account the algorithm duration we can say that Dynamic algorithm is the fastest.
 
 \section{Conclusion}
 \begin{itemize}
