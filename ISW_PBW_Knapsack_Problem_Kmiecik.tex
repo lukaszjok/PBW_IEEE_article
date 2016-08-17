@@ -190,8 +190,15 @@ It works like this:
 \subsection{Dynamic programming}
 Knapsack problem can be solved in pseudopolynominal time using dynamic programming method. $w_{1}$, $w_{w}$, …, $w_{n}$ is weight of each element on $c_{1}$, $c_{2}$, …, $c_{n}$ is them values. Algorithm have to maximize the sum of values of elements in the way that their weight cannot be greater than W. When A(i) is the greatest possible value which can be received when the weight is not greater then "i", than $A(W)$ is the solution of the problem.
 $A(i)$ is recursion defined:\\
-$A(0) = 0$\\
-$A(i) = max \{c_{j} + A(i-w_{j}): w{j}\leqslant i\}$
+\begin{equation}
+A(0) = 0
+\end{equation}
+
+\begin{equation}
+A(i) = max \{c_{j} + A(i-w_{j}): w{j}\leqslant i\}
+\end{equation}
+
+
 
 
 \subsection{Brute force algorithm}
@@ -267,11 +274,25 @@ The best (large fulfilment and high speed of execution) algorithm for the small 
 
 As we can see on first diagram (Figure 3.) almost all algorithms give very well results. Only in two approach we can see anomaly: in Dynamic algorithm limited by both weight and volume and in Generic algorithm limited by weight.\\
 
-On the figure 4. that Greedy algorithm limited by both weight and volume take the least time. Whereas 3. figure we agree that choosing this approach in this dataset could be the best solution.\\
+Greedy algorithm limited by both weight and volume take the least time. Whereas 3. figure we agree that choosing this approach in this dataset could be the best solution.\\
 
 \item \textbf{Hard set}
 
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\columnwidth]{image023.png}
+  \caption{Percentage loading of a truck }
+\end{figure}
 
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\columnwidth]{image029.png}
+  \caption{Average time of performing algorithms}
+\end{figure}
+
+As we can see on first diagram (Figure 5.) almost all algorithms give very well results. Again only in two approach we can see anomaly: in Dynamic algorithm limited by both weight and volume and in Generic algorithm limited by both weight and volume.\\
+
+On the figure 5. we can see that Greedy algorithm limited by both weight and volume take the least time. Whereas 3. figure we agree that choosing this approach in this dataset could be the best solution.\\
 
 
 \end{enumerate}
