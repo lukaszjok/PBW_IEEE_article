@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.8.8)  17 AUG 2016 10:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.8.8)  18 AUG 2016 01:06
 entering extended mode
 **./ISW_PBW_Knapsack_Problem_Kmiecik.tex
 (ISW_PBW_Knapsack_Problem_Kmiecik.tex
@@ -345,12 +345,12 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 129.
 ("d:\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 129--131
+Underfull \hbox (badness 10000) in paragraph at lines 128--131
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--131
+Underfull \hbox (badness 10000) in paragraph at lines 128--131
 
  []
 
@@ -359,15 +359,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 135--136
 
  []
 
-[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
-
-]
 Underfull \hbox (badness 10000) in paragraph at lines 147--148
 
  []
 
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
@@ -400,52 +400,54 @@ Missing character: There is no ì in font ptmr7t!
 [2] <image003.png, id=20, 540.0978pt x 304.9794pt>
 File: image003.png Graphic file (type png)
  <use image003.png>
-Package pdftex.def Info: image003.png used on input line 237.
+Package pdftex.def Info: image003.png used on input line 240.
 (pdftex.def)             Requested size: 243.91125pt x 137.72809pt.
 
 <image006.png, id=22, 540.0978pt x 304.9794pt>
 File: image006.png Graphic file (type png)
  <use image006.png>
-Package pdftex.def Info: image006.png used on input line 243.
+Package pdftex.def Info: image006.png used on input line 246.
 (pdftex.def)             Requested size: 243.91125pt x 137.72809pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 1412) in paragraph at lines 251--254
+\OT1/ptm/m/n/10.03749 Pro-gram-ming. A lit-tle bit slower was Greedy
+ []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--248
+Underfull \hbox (badness 10000) in paragraph at lines 251--254
+
+ []
+
+<image013.png, id=23, 540.0978pt x 304.9794pt>
+File: image013.png Graphic file (type png)
+ <use image013.png>
+Package pdftex.def Info: image013.png used on input line 258.
+(pdftex.def)             Requested size: 243.91125pt x 137.72809pt.
+
+<image019.png, id=24, 540.0978pt x 304.4976pt>
+File: image019.png Graphic file (type png)
+ <use image019.png>
+Package pdftex.def Info: image019.png used on input line 264.
+(pdftex.def)             Requested size: 243.91125pt x 137.5105pt.
+
+Underfull \vbox (badness 8075) has occurred while \output is active []
+
+ [3 <./image003.png> <./image006.png> <./image013.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--248
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
 
  []
 
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-[3 <./image003.png> <./image006.png>]
 Missing character: There is no √ in font ptmri7t!
 Missing character: There is no ≥ in font ptmri7t!
 Missing character: There is no ≈ in font ptmr7t!
 Missing character: There is no Ñ in font ptmr7t!
 
-Underfull \hbox (badness 5359) in paragraph at lines 317--319
+Underfull \hbox (badness 5359) in paragraph at lines 349--351
 []\OT1/ptm/m/n/8.03 Antoni Nieder-laski,\OT1/ptm/m/it/8.03 Programowanie w log-
 ice z ograniczeni-ami\OT1/ptm/m/n/8.03 ,
  []
@@ -459,12 +461,12 @@ Missing character: There is no Ç in font ptmri7t!
 Missing character: There is no ≈ in font ptmri7t!
 Missing character: There is no Ç in font ptmri7t!
 
-Underfull \hbox (badness 3884) in paragraph at lines 327--329
+Underfull \hbox (badness 3884) in paragraph at lines 359--361
 []\OT1/ptm/m/n/8.03 Jon Bent-ley, \OT1/ptm/m/it/8.03 Pereki opro-gramowa-nia / 
 Pereki pro-gramowa-nia\OT1/ptm/m/n/8.03 ,
  []
 
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 336.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 368.
 
 ("d:\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
@@ -480,21 +482,19 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[4
-
-] (ISW_PBW_Knapsack_Problem_Kmiecik.aux)
+[4 <./image019.png>] (ISW_PBW_Knapsack_Problem_Kmiecik.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3454 strings out of 493335
- 50631 string characters out of 3145275
+ 3466 strings out of 493335
+ 50826 string characters out of 3145275
  120130 words of memory out of 3000000
- 6933 multiletter control sequences out of 15000+200000
- 41424 words of font info for 80 fonts, out of 3000000 for 9000
+ 6943 multiletter control sequences out of 15000+200000
+ 41943 words of font info for 81 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 40i,7n,26p,1060b,247s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,7n,26p,1060b,308s stack positions out of 5000i,500n,10000p,200000b,50000s
 {d:/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<d:/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmex10.pfb><d:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10
 .pfb><d:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d:/MiKTeX 2.9/fon
@@ -505,10 +505,10 @@ ic/amsfonts/symbols/msam10.pfb><d:/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pf
 b><d:/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><d:/MiKTeX 2.9/fonts/type1/ur
 w/times/utmbi8a.pfb><d:/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><d:/MiKTeX 
 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ISW_PBW_Knapsack_Problem_Kmiecik.pdf (4 pages, 269697 bytes).
+Output written on ISW_PBW_Knapsack_Problem_Kmiecik.pdf (4 pages, 382922 bytes).
 
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
+ 77 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -126,8 +126,8 @@ Knapsack problem, often also called rucksack problem, is the most popular questi
 
 \subsection{Definition}
 Formal definition says that we have a knapsack with maximal capacity W and set N of elements 
-$$ \{x_1,x_j,...,x_N\} \textrm{,}$$
-while each element has specified weight (\textbf{w}) and value (\textbf{v}).\\\\
+$ \{x_1,x_j,...,x_N\} \textrm{,}$
+while each element has specified weight $(\textbf{w})$ and value $(\textbf{v})$.\\\\
  
 In this algorithm three approach are distinguished:
 
@@ -230,8 +230,11 @@ As a priority we set ourselves following assumptions:
 
 
 \section{Results}
-As a result we got graphs, which present the degree of loading and average time of performing algorithm. Only selected charts are shown in this article.
-
+As a result we got graphs, which present the degree of loading and average time of performing algorithm. Only selected charts are shown in this article. Only for easy set Brute Force is presented on charts, because calculation time is too long for bigger (more than 20 elements) datasets on personal computers. If we had more 
+efficient computer or access to supercomputer cluster, we would try to solve this problem.
+%TODO napisać jak duże są to zbiory !!!
+\begin{enumerate}
+\item \textbf{Easy set}
 \begin{figure}[H]
   \centering
   \includegraphics[width=\columnwidth]{image003.png}
@@ -244,21 +247,50 @@ As a result we got graphs, which present the degree of loading and average time 
   \caption{Average time of performing algorithms}
 \end{figure}
 
-In the charts we can see that in Brute Force and Greedy algorithm he best results we got, when both weight and volume are complied. In Dynamic algorithm when we comply only volume and than both volume and weight the results are very similar. In Generic approach the best solution is to choose only weight as a limit but choosing limiting by only volume gives satisfying results\\\\
 
-It is known that Brutal Force algorithm is very time-consuming, but gives optimal results. Taking into account the algorithm duration we can say that Dynamic algorithm is the fastest.
+As we can see on first diagram (Figure 1.) the best algorithm, as we take into account only weight or only volume of packages and truck, is Genetic Algorithm. In first case it found solution which loads a 100\% of maximum loading of a truck. In second case it obtained 95\%, which is very good result. However, if we want to consider both, the weight and the volume of packages and track at the same time, the best is Brute Force Algorithm and Greedy Algorithm. These algorithms obtained 100\% of loading of the truck.
+If we take a look on the second diagram (Figure 2.) we can see that the fastest algorithm almost every time was Dynamic Programming. A little bit slower was Greedy Algorithm. As we were expecting the slowest algorithm was Brute Force Algorithm. Brute Force Algorithm tested with the smallest data set was executing almost 2 minutes while other algorithms was executing  less than 1 second and usually even much more faster.
+The best (large fulfilment and high speed of execution) algorithm for the small data sets is Genetic Algorithm - if we look only on weight or only on volume, and Greedy Algorithm - if we want to consider these both things.\\
+
+\item \textbf{Medium set}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\columnwidth]{image013.png}
+  \caption{Percentage loading of a truck }
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\columnwidth]{image019.png}
+  \caption{Average time of performing algorithms}
+\end{figure}
+
+As we can see on first diagram (Figure 3.) almost all algorithms give very well results. Only in two approach we can see anomaly: in Dynamic algorithm limited by both weight and volume and in Generic algorithm limited by weight.\\
+
+On the figure 4. that Greedy algorithm limited by both weight and volume take the least time. Whereas 3. figure we agree that choosing this approach in this dataset could be the best solution.\\
+
+\item \textbf{Hard set}
+
+
+
+
+\end{enumerate}
+
+
+
+
 
 \section{Conclusion}
 \begin{itemize}
 \item Applying our programme in transport companies brings lots of benefits in example: saving time to load a truck or maximize cost of each loading;
 
-\item After research each algorithm, we proved that the best one was “Greedy Algorithm”, which we modified and it checked if each package was not too heavy (weight) or too big (volume). It was turning the best result of fulfilment a truck and also it was the fastest algorithm;
+\item After research each algorithm, we proved that the best one was "Greedy Algorithm", which we modified and it checked if each package was not too heavy (weight) or too big (volume). It was turning the best result of fulfilment a truck and also it was the fastest algorithm;
 
-\item After research each algorithm, we proved that the best one was “Greedy Algorithm”, which we modified and it checked if each package was not too heavy (weight) or too big (volume). It was turning the best result of fulfilment a truck and also it was the fastest algorithm;
+\item After research each algorithm, we proved that the best one was "Greedy Algorithm", which we modified and it checked if each package was not too heavy (weight) or too big (volume). It was turning the best result of fulfilment a truck and also it was the fastest algorithm;
 
 \item The size of data set was mattered. The bigger set the longer was execution of each algorithm. We expected that kind of phenomenon;
 
-\item It was impossible to test “Brute force Algorithm” using data set with lots of packages, because we didn't dispose so big computing power;
+\item It was impossible to test "Brute force Algorithm" using data set with lots of packages, because we didn't dispose so big computing power;
 
 \end{itemize}
 
