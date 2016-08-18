@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.8.8)  18 AUG 2016 02:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.8.8)  18 AUG 2016 09:40
 entering extended mode
 **./ISW_PBW_Knapsack_Problem_Kmiecik.tex
 (ISW_PBW_Knapsack_Problem_Kmiecik.tex
@@ -326,41 +326,41 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 85.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 83.
 
 ("d:\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.05249> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 83.
 LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 12
-9.
-LaTeX Font Info:    Try loading font information for U+msa on input line 129.
+7.
+LaTeX Font Info:    Try loading font information for U+msa on input line 127.
 
 ("d:\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 129.
+LaTeX Font Info:    Try loading font information for U+msb on input line 127.
 
 ("d:\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 128--131
+Underfull \hbox (badness 10000) in paragraph at lines 126--129
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--131
+Underfull \hbox (badness 10000) in paragraph at lines 126--129
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--148
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
 
  []
 
@@ -368,17 +368,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 147--148
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--159
-
- []
-
-
-Underfull \hbox (badness 1466) in paragraph at lines 185--186
+Underfull \hbox (badness 1466) in paragraph at lines 183--184
 []\OT1/ptm/m/n/10.03749 rate new in-di-vid-u-als by cal-cu-lat-ing their
  []
 
@@ -389,7 +389,7 @@ Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ¦ in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--193
+Underfull \hbox (badness 10000) in paragraph at lines 189--191
 
  []
 
@@ -405,25 +405,25 @@ Missing character: There is no “ in font ptmr7t!
 [2] <image002p.jpg, id=20, 418.56375pt x 316.18124pt>
 File: image002p.jpg Graphic file (type jpg)
  <use image002p.jpg>
-Package pdftex.def Info: image002p.jpg used on input line 243.
+Package pdftex.def Info: image002p.jpg used on input line 241.
 (pdftex.def)             Requested size: 243.91125pt x 184.24883pt.
 
 <image004p.jpg, id=21, 415.5525pt x 316.7835pt>
 File: image004p.jpg Graphic file (type jpg)
  <use image004p.jpg>
-Package pdftex.def Info: image004p.jpg used on input line 249.
+Package pdftex.def Info: image004p.jpg used on input line 247.
 (pdftex.def)             Requested size: 243.91125pt x 185.93872pt.
 
 <image006p.jpg, id=22, 436.029pt x 330.033pt>
 File: image006p.jpg Graphic file (type jpg)
  <use image006p.jpg>
-Package pdftex.def Info: image006p.jpg used on input line 257.
+Package pdftex.def Info: image006p.jpg used on input line 255.
 (pdftex.def)             Requested size: 243.91125pt x 184.6208pt.
 
 <image008p.jpg, id=23, 455.301pt x 281.25075pt>
 File: image008p.jpg Graphic file (type jpg)
  <use image008p.jpg>
-Package pdftex.def Info: image008p.jpg used on input line 263.
+Package pdftex.def Info: image008p.jpg used on input line 261.
 (pdftex.def)             Requested size: 243.91125pt x 150.6672pt.
 
 Underfull \vbox (badness 2600) has occurred while \output is active []
@@ -432,66 +432,64 @@ Underfull \vbox (badness 2600) has occurred while \output is active []
 <image003.png, id=27, 540.0978pt x 304.9794pt>
 File: image003.png Graphic file (type png)
  <use image003.png>
-Package pdftex.def Info: image003.png used on input line 275.
+Package pdftex.def Info: image003.png used on input line 273.
 (pdftex.def)             Requested size: 243.91125pt x 137.72809pt.
 
 <image006.png, id=29, 540.0978pt x 304.9794pt>
 File: image006.png Graphic file (type png)
  <use image006.png>
-Package pdftex.def Info: image006.png used on input line 281.
+Package pdftex.def Info: image006.png used on input line 279.
 (pdftex.def)             Requested size: 243.91125pt x 137.72809pt.
 
-Underfull \hbox (badness 1412) in paragraph at lines 286--289
+Underfull \hbox (badness 1412) in paragraph at lines 284--287
 \OT1/ptm/m/n/10.03749 Pro-gram-ming. A lit-tle bit slower was Greedy
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--289
+Underfull \hbox (badness 10000) in paragraph at lines 284--287
 
  []
 
 <image013.png, id=30, 540.0978pt x 304.9794pt>
 File: image013.png Graphic file (type png)
  <use image013.png>
-Package pdftex.def Info: image013.png used on input line 293.
+Package pdftex.def Info: image013.png used on input line 291.
 (pdftex.def)             Requested size: 243.91125pt x 137.72809pt.
 
 <image019.png, id=31, 540.0978pt x 304.4976pt>
 File: image019.png Graphic file (type png)
  <use image019.png>
-Package pdftex.def Info: image019.png used on input line 299.
+Package pdftex.def Info: image019.png used on input line 297.
 (pdftex.def)             Requested size: 243.91125pt x 137.5105pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 303--304
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 305--306
-
- []
-
-<image023.png, id=32, 540.0978pt x 304.9794pt>
+[4 <./image003.png> <./image006.png> <./image013.png> <./image019.png>]
+<image023.png, id=39, 540.0978pt x 304.9794pt>
 File: image023.png Graphic file (type png)
  <use image023.png>
-Package pdftex.def Info: image023.png used on input line 311.
+Package pdftex.def Info: image023.png used on input line 310.
 (pdftex.def)             Requested size: 243.91125pt x 137.72809pt.
 
-Underfull \vbox (badness 1675) has occurred while \output is active []
-
- [4 <./image003.png> <./image006.png> <./image013.png> <./image019.png>]
 <image029.png, id=40, 540.0978pt x 304.4976pt>
 File: image029.png Graphic file (type png)
  <use image029.png>
-Package pdftex.def Info: image029.png used on input line 317.
+Package pdftex.def Info: image029.png used on input line 316.
 (pdftex.def)             Requested size: 243.91125pt x 137.5105pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 321--322
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 323--324
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
 
  []
 
@@ -500,7 +498,7 @@ Missing character: There is no ³ in font ptmri7t!
 Missing character: There is no Å in font ptmr7t!
 Missing character: There is no „ in font ptmr7t!
 
-Underfull \hbox (badness 5359) in paragraph at lines 398--400
+Underfull \hbox (badness 5359) in paragraph at lines 397--399
 []\OT1/ptm/m/n/8.03 Antoni Nieder-laski,\OT1/ptm/m/it/8.03 Programowanie w log-
 ice z ograniczeni-ami\OT1/ptm/m/n/8.03 ,
  []
@@ -514,12 +512,12 @@ Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no Å in font ptmri7t!
 Missing character: There is no ‚ in font ptmri7t!
 
-Underfull \hbox (badness 3884) in paragraph at lines 408--410
+Underfull \hbox (badness 3884) in paragraph at lines 407--409
 []\OT1/ptm/m/n/8.03 Jon Bent-ley, \OT1/ptm/m/it/8.03 Pereki opro-gramowa-nia / 
 Pereki pro-gramowa-nia\OT1/ptm/m/n/8.03 ,
  []
 
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 417.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 416.
 
 ("d:\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
@@ -558,7 +556,7 @@ ic/amsfonts/symbols/msam10.pfb><d:/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pf
 b><d:/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><d:/MiKTeX 2.9/fonts/type1/ur
 w/times/utmbi8a.pfb><d:/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><d:/MiKTeX 
 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ISW_PBW_Knapsack_Problem_Kmiecik.pdf (5 pages, 626449 bytes).
+Output written on ISW_PBW_Knapsack_Problem_Kmiecik.pdf (5 pages, 626522 bytes).
 
 PDF statistics:
  88 PDF objects out of 1000 (max. 8388607)
