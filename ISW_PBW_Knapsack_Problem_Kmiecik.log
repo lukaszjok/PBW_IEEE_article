@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.8.8)  18 AUG 2016 01:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.8.8)  18 AUG 2016 02:01
 entering extended mode
 **./ISW_PBW_Knapsack_Problem_Kmiecik.tex
 (ISW_PBW_Knapsack_Problem_Kmiecik.tex
@@ -402,69 +402,96 @@ Missing character: There is no “ in font ptmr7t!
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no “ in font ptmr7t!
-[2] <image003.png, id=20, 540.0978pt x 304.9794pt>
+[2] <image002p.jpg, id=20, 418.56375pt x 316.18124pt>
+File: image002p.jpg Graphic file (type jpg)
+ <use image002p.jpg>
+Package pdftex.def Info: image002p.jpg used on input line 243.
+(pdftex.def)             Requested size: 243.91125pt x 184.24883pt.
+
+<image004p.jpg, id=21, 415.5525pt x 316.7835pt>
+File: image004p.jpg Graphic file (type jpg)
+ <use image004p.jpg>
+Package pdftex.def Info: image004p.jpg used on input line 249.
+(pdftex.def)             Requested size: 243.91125pt x 185.93872pt.
+
+<image006p.jpg, id=22, 436.029pt x 330.033pt>
+File: image006p.jpg Graphic file (type jpg)
+ <use image006p.jpg>
+Package pdftex.def Info: image006p.jpg used on input line 257.
+(pdftex.def)             Requested size: 243.91125pt x 184.6208pt.
+
+<image008p.jpg, id=23, 455.301pt x 281.25075pt>
+File: image008p.jpg Graphic file (type jpg)
+ <use image008p.jpg>
+Package pdftex.def Info: image008p.jpg used on input line 263.
+(pdftex.def)             Requested size: 243.91125pt x 150.6672pt.
+
+Underfull \vbox (badness 2600) has occurred while \output is active []
+
+ [3 <./image002p.jpg> <./image004p.jpg> <./image006p.jpg> <./image008p.jpg>]
+<image003.png, id=27, 540.0978pt x 304.9794pt>
 File: image003.png Graphic file (type png)
  <use image003.png>
-Package pdftex.def Info: image003.png used on input line 247.
+Package pdftex.def Info: image003.png used on input line 275.
 (pdftex.def)             Requested size: 243.91125pt x 137.72809pt.
 
-<image006.png, id=22, 540.0978pt x 304.9794pt>
+<image006.png, id=29, 540.0978pt x 304.9794pt>
 File: image006.png Graphic file (type png)
  <use image006.png>
-Package pdftex.def Info: image006.png used on input line 253.
+Package pdftex.def Info: image006.png used on input line 281.
 (pdftex.def)             Requested size: 243.91125pt x 137.72809pt.
 
-Underfull \hbox (badness 1412) in paragraph at lines 258--261
+Underfull \hbox (badness 1412) in paragraph at lines 286--289
 \OT1/ptm/m/n/10.03749 Pro-gram-ming. A lit-tle bit slower was Greedy
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--261
+Underfull \hbox (badness 10000) in paragraph at lines 286--289
 
  []
 
-<image013.png, id=23, 540.0978pt x 304.9794pt>
+<image013.png, id=30, 540.0978pt x 304.9794pt>
 File: image013.png Graphic file (type png)
  <use image013.png>
-Package pdftex.def Info: image013.png used on input line 265.
+Package pdftex.def Info: image013.png used on input line 293.
 (pdftex.def)             Requested size: 243.91125pt x 137.72809pt.
 
-<image019.png, id=24, 540.0978pt x 304.4976pt>
+<image019.png, id=31, 540.0978pt x 304.4976pt>
 File: image019.png Graphic file (type png)
  <use image019.png>
-Package pdftex.def Info: image019.png used on input line 271.
+Package pdftex.def Info: image019.png used on input line 299.
 (pdftex.def)             Requested size: 243.91125pt x 137.5105pt.
 
-Underfull \vbox (badness 8075) has occurred while \output is active []
-
- [3 <./image003.png> <./image006.png> <./image013.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 275--276
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--278
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
 
  []
 
-<image023.png, id=31, 540.0978pt x 304.9794pt>
+<image023.png, id=32, 540.0978pt x 304.9794pt>
 File: image023.png Graphic file (type png)
  <use image023.png>
-Package pdftex.def Info: image023.png used on input line 283.
+Package pdftex.def Info: image023.png used on input line 311.
 (pdftex.def)             Requested size: 243.91125pt x 137.72809pt.
 
-<image029.png, id=32, 540.0978pt x 304.4976pt>
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [4 <./image003.png> <./image006.png> <./image013.png> <./image019.png>]
+<image029.png, id=40, 540.0978pt x 304.4976pt>
 File: image029.png Graphic file (type png)
  <use image029.png>
-Package pdftex.def Info: image029.png used on input line 289.
+Package pdftex.def Info: image029.png used on input line 317.
 (pdftex.def)             Requested size: 243.91125pt x 137.5105pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 293--294
+Underfull \hbox (badness 10000) in paragraph at lines 321--322
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 295--296
+Underfull \hbox (badness 10000) in paragraph at lines 323--324
 
  []
 
@@ -473,7 +500,7 @@ Missing character: There is no ³ in font ptmri7t!
 Missing character: There is no Å in font ptmr7t!
 Missing character: There is no „ in font ptmr7t!
 
-Underfull \hbox (badness 5359) in paragraph at lines 370--372
+Underfull \hbox (badness 5359) in paragraph at lines 398--400
 []\OT1/ptm/m/n/8.03 Antoni Nieder-laski,\OT1/ptm/m/it/8.03 Programowanie w log-
 ice z ograniczeni-ami\OT1/ptm/m/n/8.03 ,
  []
@@ -487,14 +514,12 @@ Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no Å in font ptmri7t!
 Missing character: There is no ‚ in font ptmri7t!
 
-Underfull \hbox (badness 3884) in paragraph at lines 380--382
+Underfull \hbox (badness 3884) in paragraph at lines 408--410
 []\OT1/ptm/m/n/8.03 Jon Bent-ley, \OT1/ptm/m/it/8.03 Pereki opro-gramowa-nia / 
 Pereki pro-gramowa-nia\OT1/ptm/m/n/8.03 ,
  []
 
-[4 <./image019.png> <./image023.png> <./image029.png>]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 389.
-
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 417.
 
 ("d:\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
@@ -510,18 +535,16 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[5
-
-] (ISW_PBW_Knapsack_Problem_Kmiecik.aux)
+[5 <./image023.png> <./image029.png>] (ISW_PBW_Knapsack_Problem_Kmiecik.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3476 strings out of 493335
- 50984 string characters out of 3145275
+ 3497 strings out of 493335
+ 51324 string characters out of 3145275
  119130 words of memory out of 3000000
- 6951 multiletter control sequences out of 15000+200000
+ 6967 multiletter control sequences out of 15000+200000
  41943 words of font info for 81 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
  40i,7n,26p,1060b,308s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -535,10 +558,10 @@ ic/amsfonts/symbols/msam10.pfb><d:/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pf
 b><d:/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><d:/MiKTeX 2.9/fonts/type1/ur
 w/times/utmbi8a.pfb><d:/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><d:/MiKTeX 
 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ISW_PBW_Knapsack_Problem_Kmiecik.pdf (5 pages, 493625 bytes).
+Output written on ISW_PBW_Knapsack_Problem_Kmiecik.pdf (5 pages, 626449 bytes).
 
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
+ 88 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
