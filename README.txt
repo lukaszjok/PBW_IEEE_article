@@ -1,4 +1,3 @@
-# PBW_IEEE_article
+﻿# PBW_IEEE_article
 
-jak widzisz ten plik, czuj się programistą cwaniaczku. W sumie nawet partyzantem poranków
-Dodana linijka :)
+If you have some questions please ask via email: lukaszjok@gmail.com

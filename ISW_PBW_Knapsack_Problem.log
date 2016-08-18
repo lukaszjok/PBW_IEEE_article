@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.8.8)  18 AUG 2016 09:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.8.8)  18 AUG 2016 10:32
 entering extended mode
-**./ISW_PBW_Knapsack_Problem_Kmiecik.tex
-(ISW_PBW_Knapsack_Problem_Kmiecik.tex
+**./ISW_PBW_Knapsack_Problem.tex
+(ISW_PBW_Knapsack_Problem.tex
 LaTeX2e <2016/03/31> patch level 1
 Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 ("d:\MiKTeX 2.9\tex\latex\ieeetran\IEEEtran.cls"
@@ -228,8 +228,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box30
 \@float@everytoks=\toks23
 \@floatcapt=\box31
-)
-(ISW_PBW_Knapsack_Problem_Kmiecik.aux
+) (ISW_PBW_Knapsack_Problem.aux
 
 LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
 
@@ -252,7 +251,7 @@ LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
 LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
 
 )
-\openout1 = `ISW_PBW_Knapsack_Problem_Kmiecik.aux'.
+\openout1 = `ISW_PBW_Knapsack_Problem.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
@@ -533,19 +532,19 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[5 <./image023.png> <./image029.png>] (ISW_PBW_Knapsack_Problem_Kmiecik.aux)
+[5 <./image023.png> <./image029.png>] (ISW_PBW_Knapsack_Problem.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
  3497 strings out of 493335
- 51324 string characters out of 3145275
+ 51244 string characters out of 3145275
  119130 words of memory out of 3000000
  6967 multiletter control sequences out of 15000+200000
  41943 words of font info for 81 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 40i,7n,26p,1060b,308s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,7n,26p,1052b,308s stack positions out of 5000i,500n,10000p,200000b,50000s
 {d:/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<d:/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmex10.pfb><d:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10
 .pfb><d:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d:/MiKTeX 2.9/fon
@@ -556,8 +555,7 @@ ic/amsfonts/symbols/msam10.pfb><d:/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pf
 b><d:/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><d:/MiKTeX 2.9/fonts/type1/ur
 w/times/utmbi8a.pfb><d:/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><d:/MiKTeX 
 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ISW_PBW_Knapsack_Problem_Kmiecik.pdf (5 pages, 626522 bytes).
-
+Output written on ISW_PBW_Knapsack_Problem.pdf (5 pages, 626522 bytes).
 PDF statistics:
  88 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
